@@ -14,7 +14,8 @@
 - 🏢 I'm a Software Engineer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 👨‍💻 I'm a problem solver at Code force and leetcode.
-- 💬 Ask me about my experience with Java, C++,OOP and DataStructure, or anything related to software development.
+- 💬 Ask me about my experience with Java, C++,OOP and DataStructure, or anything
+     related to software development.
 - ⚡ Fun Fact:I'm a fast typing in keyboard my speed is 52 wpm.
 - 👨‍💻 Check out my portfolio soon to see some of the projects I've worked on.
 
