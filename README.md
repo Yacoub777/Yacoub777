@@ -1,39 +1,84 @@
- 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Mostafa Yacoub's profile!
+  Welcome to Mostafa Yacoub's Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full-Stack%20Web%20Developer;Problem%20Solver;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 I'm a problem solver at Code force and leetcode.
-- 💬 Ask me about my experience with Java, C++,OOP and DataStructure, or anything
-     related to software development.
-- ⚡ Fun Fact:I'm a fast typing in keyboard my speed is 52 wpm.
-- 👨‍💻 Check out my portfolio soon to see some of the projects I've worked on.
+---
 
+### 🛠 About Me  
 
-### Connect with Me :
+- 🏢 I'm a **Software Engineer** and a **Full-Stack Web Developer**.  
+- 👨‍💻 As a **Computer Science student**, I'm constantly learning and exploring new technologies to improve my skills.  
+- 🌟 I'm passionate about **web development**, **problem-solving**, and **teaching programming concepts**.  
+- 👨‍💻 Active participant on **LeetCode** and **Codeforces**.  
+- 💬 Ask me about my experience with **Java**, **C++**, **Python**, **JavaScript**, **OOP**, **Data Structures**, or anything related to software development.  
+- ⚡ Fun Fact: My typing speed is **52 WPM**, making me a fast and efficient coder.  
+- 🌐 Check out my **portfolio** soon to explore some of my recent projects.  
 
-<a href="(https://www.linkedin.com/in/mostafa-yacoub-2b80b125a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwTbOFMQ4QMOkQ6LpuO5Awg%3D%3D)" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Yacoub-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YacoubMostafa777" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Yacoub-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+---
 
+### 🌐 Connect with Me  
 
+<a href="https://www.linkedin.com/in/mostafa-yacoub-2b80b125a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwTbOFMQ4QMOkQ6LpuO5Awg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Yacoub-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/YacoubMostafa777" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Yacoub-0088CC?style=for-the-badge&logo=Telegram&logoColor=white"/></a>  
 
-<br>
-<a href="https://komarev.com/ghpvc/?username=mostafayacoub&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mostafayacoub&style=for-the-badge">
+---
+
+### 🛠 Tech Stack  
+
+#### Programming Languages  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;  
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;  
+
+#### Frontend Development  
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;  
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;  
+
+#### Backend Development  
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;  
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;  
+
+#### Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;  
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;  
+
+#### Tools and Platforms  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;  
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;  
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;  
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;  
+
+---
+
+### 📈 GitHub Stats  
+
+<a href="https://github.com/Yacoub777">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yacoub777&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=radical" alt="Mostafa's GitHub Stats" />
 </a>
+<a href="https://github.com/Yacoub777">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yacoub777&layout=compact&theme=radical" alt="Mostafa's Top Languages" />
+</a>  
+
+---
+
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yacoub777&theme=radical&no-bg=true" />
+</p>
+
+---
+
+<a href="https://komarev.com/ghpvc/?username=Yacoub777&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Yacoub777&style=for-the-badge">
+</a>  
