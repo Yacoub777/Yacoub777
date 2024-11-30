@@ -18,7 +18,7 @@
 - 🌟 I'm passionate about **web development**, **problem-solving**, and **teaching programming concepts**.  
 - 👨‍💻 Active participant on **LeetCode** and **Codeforces**.  
 - 💬 Ask me about my experience with **Java**, **C++**, **Python**, **JavaScript**, **OOP**, **Data Structures**, or anything related to software development.  
-- ⚡ Fun Fact: My typing speed is **52 WPM**, making me a fast and efficient coder.  
+- ⚡ Fun Fact: My typing speed is **60 WPM**, making me a fast and efficient coder.  
 - 🌐 Check out my **portfolio** soon to explore some of my recent projects.  
 
 ---
