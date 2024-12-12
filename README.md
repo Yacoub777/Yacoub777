@@ -68,17 +68,3 @@
 <a href="https://github.com/Yacoub777">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yacoub777&layout=compact&theme=radical" alt="Mostafa's Top Languages" />
 </a>  
-
----
-
-### 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yacoub777&theme=radical&no-bg=true" />
-</p>
-
----
-
-<a href="https://komarev.com/ghpvc/?username=Yacoub777&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Yacoub777&style=for-the-badge">
-</a>  
