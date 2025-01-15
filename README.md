@@ -12,14 +12,15 @@
 ---
 
 ### 🛠 About Me  
+- 🏢 I'm a **Computer Science student** aspiring to become a **Java Backend Developer**.  
+- 👨‍💻 Currently learning and exploring **Java** and its ecosystem to build a strong foundation in backend development.  
+- 🌟 Passionate about **object-oriented programming (OOP)**, **problem-solving**, and understanding how to design and build backend systems using Java.  
+- 💻 Proficient in **HTML**, **CSS**, and **JavaScript**, with experience in front-end development, complementing my backend learning journey.  
+- 👨‍💻 Active participant on **LeetCode** and **HackerRank**, focusing on improving my Java skills through algorithmic challenges.  
+- 💬 Ask me about my experience with **Java**, **OOP principles**, **HTML**, **CSS**, **JavaScript**, and my learning journey into backend technologies like **Spring** and **Spring Boot**.  
+- ⚡ Fun Fact: I enjoy debugging and understanding the intricate details of how Java applications work.  
+- 🌐 Stay tuned for my **portfolio**, where I’ll showcase Java projects and applications as I progress in backend development.  
 
-- 🏢 I'm a **Software Engineer** and a **Full-Stack Web Developer**.  
-- 👨‍💻 As a **Computer Science student**, I'm constantly learning and exploring new technologies to improve my skills.  
-- 🌟 I'm passionate about **web development**, **problem-solving**, and **teaching programming concepts**.  
-- 👨‍💻 Active participant on **LeetCode** and **Codeforces**.  
-- 💬 Ask me about my experience with **Java**, **C++**, **Python**, **JavaScript**, **OOP**, **Data Structures**, or anything related to software development.  
-- ⚡ Fun Fact: My typing speed is **60 WPM**, making me a fast and efficient coder.  
-- 🌐 Check out my **portfolio** soon to explore some of my recent projects.  
 
 ---
 
