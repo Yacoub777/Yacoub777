@@ -36,6 +36,23 @@
 <a href="https://t.me/MostafaYacoub" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Yacoub-0088CC?style=for-the-badge&logo=Telegram&logoColor=white"/></a>  
 
 ---
+### 💼 Projects
+
+1. **Voltify**
+   - **Description:** Online store website where users can browse products by categories, search for products, and add them to a shopping cart with a chosen quantity. Total price is automatically calculated. Supports viewing more product details and CRUD operations on products using **json-server**.
+   - **Tech Stack:** ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3) ![json-server](https://img.shields.io/badge/-json--server-05122A) 
+   - **Features:**
+     - Render products with categories
+     - Search for products by category
+     - Add products to cart with quantity selection
+     - View previous orders
+     - Payment methods integration
+     - Scroll-to-top button
+     - Badge notifications when adding products to cart
+     - Alert for duplicate product addition
+   - **GitHub:** [View Repository](https://github.com/Yacoub777/Voltify-angular17)
+  
+   ---
 
 ### 🛠 Tech Stack  
 
@@ -68,22 +85,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
 
----
----
-
-### 💼 Projects
-
-1. **Art Gallery Project**
-   - **Description:** Full-stack web application to browse and purchase artworks.
-   - **Tech Stack:** Angular, .NET Core, Web API, SQL Server, MongoDB
-   - **Features:** User registration, product management, cart, checkout, order history
-   - **GitHub:** [View Repository](https://github.com/Yacoub777/ArtGallery)
-
-2. **Voltify Angular Project**
-   - **Description:** E-commerce frontend project with cart functionality and product categories.
-   - **Tech Stack:** Angular, TypeScript, HTML, CSS, Bootstrap
-   - **Features:** Add to cart, scroll-to-top button, payment methods, previous orders
-   - **GitHub:** [View Repository](https://github.com/Yacoub777/Voltify-angular17)
 ---
 
 ### 📈 GitHub Stats  
