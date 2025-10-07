@@ -69,6 +69,22 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
 
 ---
+---
+
+### 💼 Projects
+
+1. **Art Gallery Project**
+   - **Description:** Full-stack web application to browse and purchase artworks.
+   - **Tech Stack:** Angular, .NET Core, Web API, SQL Server, MongoDB
+   - **Features:** User registration, product management, cart, checkout, order history
+   - **GitHub:** [View Repository](https://github.com/Yacoub777/ArtGallery)
+
+2. **Voltify Angular Project**
+   - **Description:** E-commerce frontend project with cart functionality and product categories.
+   - **Tech Stack:** Angular, TypeScript, HTML, CSS, Bootstrap
+   - **Features:** Add to cart, scroll-to-top button, payment methods, previous orders
+   - **GitHub:** [View Repository](https://github.com/Yacoub777/Voltify-angular17)
+---
 
 ### 📈 GitHub Stats  
 
