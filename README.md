@@ -47,7 +47,7 @@
 ### 1. **Voltify**
    - **Description:** Online store website where users can browse products by categories, search for products, and add them to a shopping cart with a chosen quantity. Total price is automatically calculated. Supports viewing more product details and CRUD operations on products using **json-server**.
    - **Tech Stack:**
-    -  &nbsp;&nbsp;![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular) &nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+     - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular) &nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
      - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp; ![json-server](https://img.shields.io/badge/-json--server-05122A) &nbsp;&nbsp;
    - **Features:**
      - Render products with categories
