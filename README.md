@@ -17,7 +17,7 @@
 - 🌟 Passionate about **object-oriented programming (OOP)**, **problem-solving**, and **designing scalable full-stack systems**.  
 - 💻 Proficient in **HTML**, **CSS**, **JavaScript**, and **TypeScript**, complementing backend expertise.  
 - 👨‍💻 Active participant on **LeetCode** and **HackerRank**, improving problem-solving and algorithmic skills.  
-- 💬 Ask me about **.NET**, **C#**, **Angular**, **SQL & NoSQL databases**, and building full-stack web applications.  
+- 💬 Ask me about **.NET Core**, **ASP.NET Core**, **Web API**, **C#**, **Angular**, **SQL Server**, **PostgreSQL**, and building full-stack web applications.  
 - ⚡ Fun Fact: I enjoy **debugging complex systems** and optimizing applications for performance.  
 - 🌐 Stay tuned for my **portfolio**, showcasing full-stack projects and web applications.  
 
@@ -37,9 +37,10 @@
 
 #### Programming Languages  
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;  
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;  
 
 #### Frontend Development  
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;  
@@ -49,11 +50,13 @@
 
 #### Backend Development  
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;  
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet)&nbsp;  
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet)&nbsp;  
+![Web API](https://img.shields.io/badge/-Web%20API-05122A?style=flat&logo=dotnet)&nbsp;  
 
 #### Databases  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;  
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;  
 
 #### Tools and Platforms  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;  
@@ -69,5 +72,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yacoub777&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=radical" alt="Mostafa's GitHub Stats" />
 </a>
 <a href="https://github.com/Yacoub777">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yacoub777&layout=compact&theme=radical" alt="Mostafa's Top Languages" />
-</a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yacoub777&layout=compact&theme=radical"
