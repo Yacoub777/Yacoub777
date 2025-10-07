@@ -24,21 +24,36 @@
 - 🌐 Stay tuned for my **portfolio**, showcasing full-stack projects and web applications.  
 
 ---
+### 📬 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mostafa-yacoub-2b80b125a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://t.me/MostafaYacoub" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="30" height="30"/>
+  </a>
+  <a href="https://github.com/Yacoub777" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/>
+  </a>
+</p>
+
 
 ### 🌐 Connect with Me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mostafa-yacoub-2b80b125a" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
-    Mostafa Yacoub
+      <p>Mostafa Yacoub Linked In</p>
   </a>
+
   <a href="https://t.me/MostafaYacoub" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="30" height="30"/>
-    Mostafa Yacoub
+     <p>Mostafa Yacoub Telegram</p>
   </a>
   <a href="https://github.com/Yacoub777" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/>
-    Mostafa Yacoub
+     <p>Mostafa Yacoub GitHub</p>
   </a>
 </p>
 
