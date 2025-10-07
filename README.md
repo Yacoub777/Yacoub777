@@ -27,15 +27,20 @@
 
 ### 🌐 Connect with Me  
 
-<a href="https://www.linkedin.com/in/mostafa-yacoub-2b80b125a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Yacoub-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://t.me/MostafaYacoub" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-Mostafa%20Yacoub-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mostafa-yacoub-2b80b125a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://t.me/MostafaYacoub" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="30" height="30"/>
+  </a>
+  <a href="https://github.com/Yacoub777" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/>
+  </a>
+</p>
 
 ---
+
 ### 💼 Projects
 
 1. **Voltify**
