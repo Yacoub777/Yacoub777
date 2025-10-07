@@ -27,6 +27,7 @@
 ### 📬 Connect with Me  
 
 <p align="left">
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mostafa-yacoub-2b80b125a" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
   </a>&nbsp;&nbsp;&nbsp;
@@ -35,7 +36,7 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Yacoub777" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/>
-  </a>
+  </a>&nbsp;&nbsp;
 </p>
 
 
@@ -45,7 +46,7 @@
 
 1. **Voltify**
    - **Description:** Online store website where users can browse products by categories, search for products, and add them to a shopping cart with a chosen quantity. Total price is automatically calculated. Supports viewing more product details and CRUD operations on products using **json-server**.
-   - **Tech Stack:** ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3) ![json-server](https://img.shields.io/badge/-json--server-05122A) 
+   - **Tech Stack:** ![Angular] ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3) ![json-server](https://img.shields.io/badge/-json--server-05122A) 
    - **Features:**
      - Render products with categories
      - Search for products by category
