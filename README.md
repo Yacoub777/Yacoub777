@@ -1,37 +1,48 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Mostafa+Yacoub;Full+Stack+Developer+(.NET+%26+Angular);Backend+Focused+%7C+ASP.NET+Core;Problem+Solver+%26+Programming+Instructor+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h1>Hi 👋, I'm Mostafa Yacoub</h1>
+
+<h3>.NET Backend Developer | Angular Developer</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Focused+Developer;ASP.NET+Core+%7C+Clean+Architecture;Problem+Solver+%F0%9F%9A%80" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Computer%20Systems%20Engineering-%40%20Al--Azhar%20University-7B2FBE?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Cairo-Egypt-0A66C2?style=flat-square" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=mostafayacoub&color=00D9FF&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/badge/🎓-Al--Azhar%20University-7B2FBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍-Egypt-0A66C2?style=for-the-badge" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafayacoub)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.yacoub.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/Yacoub)
+<a href="https://linkedin.com/in/mostafayacoub">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mostafa.yacoub.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/mostafayacoub">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ✨ About Me
 
-- 👨‍💻 **Name:** Mostafa Yacoub
-- 💼 **Role:** Full Stack Developer (.NET & Angular) — Backend Focused
-- 🏛️ **University:** Al-Azhar University — Computer Systems Engineering (2026)
-- 🎓 **Trained at:** DEPI · ITI (Angular) · Route Academy (.NET Backend)
-- 🔭 **Currently:** Building full-stack apps with Angular + ASP.NET Core
-- 🌱 **Deepening:** Clean Architecture · Design Patterns · SOLID Principles
-- 🏫 **Community:** Instructor & Vice Head of Java Committee @ GDSC Al-Azhar
-- 💬 **Ask me about:** Angular · ASP.NET Core · EF Core · REST APIs · SQL Server
-- 🎯 **Open To:** Full Stack / .NET Backend roles — On-site · Hybrid · Remote
+<div align="center">
 
+💼 .NET Backend Developer (with Angular experience)  
+🎓 Computer Systems Engineering — Al-Azhar University (2026)  
+
+🚀 Building real-world apps using ASP.NET Core  
+📚 Learning Clean Architecture & Design Patterns  
+
+🛠️ ASP.NET Core · EF Core · SQL Server · Angular  
+
+🏫 Instructor & Vice Head @ GDSC Al-Azhar  
+🎯 Goal: Become a Professional Backend Engineer  
+
+</div>
 ---
 ## 🚀 Featured Projects
 
