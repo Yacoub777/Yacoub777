@@ -4,102 +4,74 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Angular%20Frontend%20Developer;.NET%20Backend%20Developer;Problem%20Solver;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20(.NET);Angular%20Frontend%20Developer;Full%20Stack%20Web%20Developer;Problem%20Solver&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
-
-
 
 ---
 
 ### 🛠 About Me  
-- 🏢 I'm a **Full-Stack Developer** specializing in **.NET & Angular**.  
-- 👨‍💻 Experienced in building **dynamic web applications** using **Angular** for frontend and **.NET (C#)** for backend.  
-- 🌟 Passionate about **object-oriented programming (OOP)**, **problem-solving**, and **designing scalable full-stack systems**.  
-- 💻 Proficient in **HTML**, **CSS**, **JavaScript**, and **TypeScript**, complementing backend expertise.  
-- 👨‍💻 Active participant on **LeetCode** and **HackerRank**, improving problem-solving and algorithmic skills.  
-- 💬 Ask me about **.NET Core**, **ASP.NET Core**, **Web API**, **C#**, **Angular**, **SQL Server**, **PostgreSQL**, and building full-stack web applications.  
-- ⚡ Fun Fact: I enjoy **debugging complex systems** and optimizing applications for performance.  
-- 🌐 Stay tuned for my **portfolio**, showcasing full-stack projects and web applications.  
+- 🏢 Backend-focused **Software Engineer** specializing in **.NET & ASP.NET Core**  
+- 👨‍💻 Experienced in building **scalable web applications** and **RESTful APIs**  
+- 🌐 Full-stack capable using **Angular & React**  
+- 🧠 Strong in **OOP, Problem Solving, and System Design basics**  
+- 💬 Ask me about **.NET Core, ASP.NET Core, Web API, Angular, SQL Server**  
 
 ---
+
 ### 📬 Connect with Me  
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mostafa-yacoub-2b80b125a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/MostafaYacoub" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Yacoub777" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" height="30"/>
   </a>&nbsp;&nbsp;
 </p>
-
 
 ---
 
 ### 💼 Projects
 
-#### 1. **Voltify**
-   - **Description:** Online store website where users can browse products by categories, search for products, and add them to a shopping cart with a chosen quantity. Total price is automatically calculated. Supports viewing more product details and CRUD operations on products using **json-server**.
-   - **Tech Stack:**
-     
-     - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular) &nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-     - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp; ![json-server](https://img.shields.io/badge/-json--server-05122A) &nbsp;&nbsp;
-   - **Features:**
-     - Render products with categories
-     - Search for products by category
-     - Add products to cart with quantity selection
-     - View previous orders
-     - Payment methods integration
-     - Scroll-to-top button
-     - Badge notifications when adding products to cart
-     - Alert for duplicate product addition
-   - **GitHub:** [View Repository](https://github.com/Yacoub777/Voltify-angular17)
-  
-   ---
+#### 🛒 Voltify - Angular E-commerce Application
+- Online store where users can browse products, search, and manage a shopping cart  
+- Implemented product filtering, cart logic, and responsive UI  
+- Built using Angular with reusable components and clean structure  
+
+🔗 GitHub: https://github.com/Yacoub777/Voltify-angular17
+
+---
 
 ### 🛠 Tech Stack  
 
-#### Programming Languages  
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;  
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;  
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;  
-
-#### Frontend Development  
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;  
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;  
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;  
-
-#### Backend Development  
+#### Backend  
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;  
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet)&nbsp;  
 ![Web API](https://img.shields.io/badge/-Web%20API-05122A?style=flat&logo=dotnet)&nbsp;  
 
-#### Databases  
+#### Frontend  
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;  
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;  
+
+#### Database  
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;  
 
-#### Tools and Platforms  
+#### Tools  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;  
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;  
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;  
 
 ---
 
 ### 📈 GitHub Stats  
 
 <a href="https://github.com/Yacoub777">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yacoub777&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=radical" alt="Mostafa's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yacoub777&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=radical" />
 </a>
+
 <a href="https://github.com/Yacoub777">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yacoub777&layout=compact&theme=radical"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yacoub777&layout=compact&theme=radical" />
+</a>
