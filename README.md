@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-- 👨‍💻 **Name:** Mostafa Yacoub
+- 👤 **Name:** Mostafa Yacoub
 - 💼 **Role:** Full Stack Developer (.NET & Angular) — Backend Focused
 - 🏛️ **University:** Al-Azhar University — Computer Systems Engineering (2026)
 - 🎓 **Trained at:** DEPI · ITI (Angular) · Route Academy (.NET Backend)
@@ -29,24 +29,9 @@
 - 🏫 **Community:** Instructor & Vice Head of Java Committee @ GDSC Al-Azhar
 - 💬 **Ask me about:** Angular · ASP.NET Core · EF Core · REST APIs · SQL Server
 - 🎯 **Open To:** Full Stack / .NET Backend roles — On-site · Hybrid · Remote
-
----
   
-## 🧑‍💻 About Me
-
-- 👤 Name: Mostafa Yacoub  
-- 💼 Role: Full Stack Developer (.NET & Angular) — Backend Focused  
-- 🎓 University: Al-Azhar University — Computer Systems Engineering (2026)  
-- 🏅 Trained at: DEPI · ITI (Angular) · Route Academy (.NET Backend)  
-
-- 🚀 Currently: Building full-stack apps with Angular + ASP.NET Core  
-- 📚 Deepening: Clean Architecture · Design Patterns · SOLID Principles  
-
-- 👨‍🏫 Community: Instructor & Vice Head of Java Committee @ GDSC Al-Azhar  
-- 💬 Ask me about: Angular · ASP.NET Core · EF Core · REST APIs · SQL Server  
-
-- 🎯 Open To: Full Stack / .NET Backend roles — On-site · Hybrid · Remote  
 ---
+
 ## 🚀 Featured Projects
 
 ### ⚡ Voltify — Angular E-Commerce App
