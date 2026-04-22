@@ -11,7 +11,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafayacoub)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.yacoub.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]((https://mail.google.com/mail/?view=cm&to=mostafa.yacoub.dev@gmail.com))
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/Yacoub777)
 
 </div>
@@ -176,10 +176,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yacoub777&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mostafayacoub&color=DD2476&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"First, solve the problem. Then, write the code."*
-
-**`Analyze() → Build() → Deploy()`** 🚀
+*"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
+**— Robert C. Martin**
 
 </div>
