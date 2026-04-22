@@ -34,7 +34,7 @@
 
 ## 🚀 Featured Projects
 
-### ⚡ Voltify — Angular E-Commerce App
+### ⚡ [Voltify — Angular E-Commerce App](https://github.com/Yacoub777/Voltify-angular17)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -49,7 +49,7 @@
 
 ---
 
-### 🏋️ Gym Management System — .NET Application
+### 🏋️ [Gym Management System — .NET Application](https://github.com/Yacoub777/GymManagementSystemMVC)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -64,7 +64,7 @@
 
 ---
 
-### 🎨 Artify — Full Stack Art Gallery & Marketplace
+### 🎨 [Artify — Full Stack Art Gallery & Marketplace](https://github.com/Yacoub777/artify)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -79,7 +79,7 @@
 
 ---
 
-### ✅ ToDoList App — React Task Manager
+### ✅ [ToDoList App — React Task Manager](https://github.com/Yacoub777/TodoList)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
