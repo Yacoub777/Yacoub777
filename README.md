@@ -4,14 +4,14 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Computer%20Systems%20Engineering-%40%20Al--Azhar%20University-7B2FBE?style=flat-square" />
+<img src="https://img.shields.io/badge/Systems%20Computer%20Engineering%20Student-%40%20Al--Azhar%20University-7B2FBE?style=flat-square" />
 &nbsp;
 <img src="https://img.shields.io/badge/Cairo-Egypt-0A66C2?style=flat-square" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafayacoub)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]((https://mail.google.com/mail/?view=cm&to=mostafa.yacoub.dev@gmail.com))
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mostafa.yacoub.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/Yacoub777)
 
 </div>
