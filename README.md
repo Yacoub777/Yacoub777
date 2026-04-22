@@ -176,7 +176,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yacoub777&color=DD2476&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Yacoub777&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
 **— Robert C. Martin**
